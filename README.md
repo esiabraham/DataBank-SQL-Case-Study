@@ -1,6 +1,6 @@
 # DataBank-SQL-Case-Study
 
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+
 ![Tool](https://img.shields.io/badge/Tool-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![Domain](https://img.shields.io/badge/Domain-FinTech%20%2F%20Neo--Banking-6C3FBF)
 ![Challenge](https://img.shields.io/badge/Source-8%20Week%20SQL%20Challenge-orange)
