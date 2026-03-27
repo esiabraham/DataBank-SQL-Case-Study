@@ -5,7 +5,7 @@
 ![Domain](https://img.shields.io/badge/Domain-FinTech%20%2F%20Neo--Banking-6C3FBF)
 ![Challenge](https://img.shields.io/badge/Source-8%20Week%20SQL%20Challenge-orange)
 
-> **Modelling storage demand for a digital bank where cloud allocation is directly tied to customer account balances.**
+> **MODELLING STORAGE DEMAND FOR A DIGITAL BANK WHERE CLOUD ALLOCATION IS DIRECTLY  TIELD TO CUSTOMER  ACCOUNT BALANACE **
 
 ---
 
