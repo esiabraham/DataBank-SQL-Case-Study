@@ -55,8 +55,8 @@ Three tables are available for analysis:
 
 The primary objective is to **accurately model and forecast storage demand** across the customer base in order to:
 
-- Prevent **over-provisioning** — which wastes infrastructure resources and inflates cost
-- Prevent **under-provisioning** — which results in insufficient storage and degrades customer experience
+- Prevent **over-provisioning**  which wastes infrastructure resources and inflates cost
+- Prevent **under-provisioning**  which results in insufficient storage and degrades customer experience
 - Support infrastructure investment decisions across five global regions
 
 ---
@@ -65,10 +65,10 @@ The primary objective is to **accurately model and forecast storage demand** acr
 
 The analysis is structured across four sequential sections, each building on the previous:
 
-1. **Customer Nodes Exploration** — Understanding node structure, regional distribution and how frequently customers are reallocated across the network.
-2. **Customer Transactions Analysis** — Analysing transaction behaviour including deposits, withdrawals, closing balances and monthly activity patterns.
-3. **Data Allocation Challenge** — Modelling and quantifying storage requirements under three different provisioning strategies.
-4. **Daily Interest Challenge** — Extending the provisioning model with a daily interest calculation to simulate a savings-incentive storage reward.
+1. **Customer Nodes Exploration** : Understanding node structure, regional distribution and how frequently customers are reallocated across the network.
+2. **Customer Transactions Analysis** : Analysing transaction behaviour including deposits, withdrawals, closing balances and monthly activity patterns.
+3. **Data Allocation Challenge** : Modelling and quantifying storage requirements under three different provisioning strategies.
+4. **Daily Interest Challenge** : Extending the provisioning model with a daily interest calculation to simulate a savings-incentive storage reward.
 
 After each section, insights are drawn and recommendations are made to support accurate storage demand forecasting.
 
